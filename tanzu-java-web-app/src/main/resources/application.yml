@@ -9,4 +9,4 @@ management:
   endpoint:
     health:
       show-details: always
-greeting: "Carvel Package"
+greeting: "TAP workload/SCC basic"
