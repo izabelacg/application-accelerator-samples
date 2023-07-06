@@ -9,4 +9,4 @@ management:
   endpoint:
     health:
       show-details: always
-greeting: "TAP workload/SCC basic"
+greeting: "TAP workload/SCC basic - Jul06 - 18:00"
